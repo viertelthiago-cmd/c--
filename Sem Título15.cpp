@@ -10,7 +10,7 @@ int maior(int a, int b) {
 }
 
 int main() {
-    int 10, 20;
+    int joao 10, melo 20;
 
     cin >> 10 >> 20;
 
